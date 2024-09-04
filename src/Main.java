@@ -14,6 +14,8 @@ public class Main {
         int votoPessoa9 = 23;
         int votoPessoa10 = 99;
 
+        System.out.println("teste");
+
         //primeira forma de criar e inicializar um vetor
         //criamos o vetor vazio
         int[] votos = new int[10];
